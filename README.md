@@ -22,4 +22,4 @@ Data preprocessing consists of the following steps:
 
 To obtain the results it was decided to use LGBM Classifier. This method provided good results with accuracy of approximately 91%. Which suggests that the model works properly obtaining correct predictions for the vast majority of the data samples.
 
-<p align="center"> <img src="Confusion matrix.png" />
+<p align="center"> <img src="Confusion matrix.jpg" />
